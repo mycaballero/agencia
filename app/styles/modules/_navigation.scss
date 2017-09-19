@@ -1,0 +1,29 @@
+.navigation__bar {
+    background-color: $dark-color;
+}
+.navbar-logo {
+    color: $yellow-page;
+    font-size: 20px;
+    font-family: kaushan Script, cursive;
+}
+.btn__nav {
+    color: #FFFFFF;
+    background-color: $yellow-page;
+    font-size: 12px;
+}
+.btn__name {
+    font-family: sans-serif;
+}
+
+.nav {
+    &__item {
+        
+    }
+    &__link {
+        color: #FFFFFF;
+        font-size: 110%;  
+        font-weight: 400;
+        
+    }
+
+}
